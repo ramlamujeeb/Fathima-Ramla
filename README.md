@@ -19,39 +19,50 @@ I enjoy learning through hands-on labs, building security tools, and analyzing r
 
 ---
 
-## 🧰 Tools & Technologies
-**Languages:** Python, Bash, JavaScript, HTML/CSS  
-**Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, Nessus  
+## 🛡️ Skills & Technologies
+**Networking:** TCP/IP, DNS, DHCP, Routing, Switching  
+**Operating Systems:** Linux (Kali, Ubuntu), Windows  
+**Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit  
+**Programming:** Python, Bash, HTML/CSS  
 **Platforms:** TryHackMe, HackTheBox  
-**Operating Systems:** Kali Linux, Ubuntu, Windows  
+**Other:** Documentation, report writing, research analysis   
 
 ---
 
-## 🚀 Projects
-Here are some of the cybersecurity projects I am building:
+## 🚀 Featured Projects
 
-### 🔍 Python Port Scanner  
-A fast TCP port scanner with multi-threading support.  
-➡️ *(Repo coming soon)*
+### 🔍 1. 5G Cybersecurity Threats & Mitigation (Research)
+- Researched DDoS, MitM, IoT vulnerabilities, and edge risks  
+- Explored AI-based IDS, Zero-Trust, MFA, secure IoT protocols  
+- Analyzed Wireshark data to detect MitM patterns  
+- Studied quantum threats, blockchain security, SDN/NFV  
 
-### 🧾 Security Log Analyzer  
-A Python tool that detects suspicious login attempts from log files.  
-➡️ *(Repo coming soon)*
+### 📡 2. Portable WiFi Repeater (Engineering Project)
+- Designed and built a working portable WiFi repeater  
+- Completed hardware assembly + software configuration  
+- Optimized signal strength, power usage, and stability  
+- Contributed documentation and final presentation  
 
-### 🌐 Packet Sniffer  
-A network packet analyzer using Scapy for traffic inspection.  
-➡️ *(Repo coming soon)*
+### 🖥️ 3. Online Advertising Agency Web App
+- Developed a web-based prototype for ad submissions  
+- Designed user interface + category management  
+- Included secure payment flow and user surveys  
 
-### 📝 Cybersecurity Labs & Write-ups  
-A collection of TryHackMe, HackTheBox, and practice lab notes.  
-➡️ *(Repo coming soon)*
-
+### 🧪 4. Cybersecurity Labs & Write-ups  
+- Documented hands-on work from TryHackMe & HackTheBox  
+- Practiced enumeration, privilege escalation, and web attacks  
+- Continuing to grow this repo as I learn more  
 ---
 
 ## 📚 Certifications & Learning
 - TryHackMe (Ongoing)  
-- HackTheBox (Learning Path)  
-- University Cybersecurity Modules  
+- HackTheBox (Learning Path)
+- Cisco — Ethical Hacker (Reading)   
+- University Cybersecurity Modules
+- Cisco — Introduction to Cybersecurity   
+- Mastercard Cybersecurity Virtual Experience  
+- AIG Shields Up Cybersecurity Experience  
+- Deloitte Cyber Job Simulation (2025) 
 
 ---
 
@@ -59,11 +70,6 @@ A collection of TryHackMe, HackTheBox, and practice lab notes.
 - **Email:** ramlamujeeb93@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/framla/ 
 - **TryHackMe / HTB:** https://tryhackme.com/p/ramlamujeeb93?tab=completed-rooms
-
----
-
-## ⭐ Fun Fact
-I break things to learn how to secure them.
 
 ---
 
