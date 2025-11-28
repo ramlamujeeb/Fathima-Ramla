@@ -56,9 +56,9 @@ A collection of TryHackMe, HackTheBox, and practice lab notes.
 ---
 
 ## 📫 How to Reach Me
-- **Email:** your-professional-email-here  
-- **LinkedIn:** your-LinkedIn-link-here  
-- **TryHackMe / HTB:** optional links
+- **Email:** ramlamujeeb93@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/framla/ 
+- **TryHackMe / HTB:** https://tryhackme.com/p/ramlamujeeb93?tab=completed-rooms
 
 ---
 
