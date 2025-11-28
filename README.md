@@ -4,28 +4,27 @@
 ---
 
 ## 🔐 About Me
-I am a passionate cybersecurity student interested in ethical hacking, digital forensics, incident response, and defensive security.  
-I enjoy learning through hands-on labs, building security tools, and analyzing real-world cyber threats.
+I am a passionate cybersecurity student with interests in ethical hacking, digital forensics, incident response, and defensive security. I enjoy hands-on labs, building security tools, and analyzing real-world cyber threats.
 
 ---
 
-## 🛡️ What I’m Learning / Working On
-- Ethical hacking & penetration testing  
-- SOC operations (SIEM, log analysis, alerts)  
-- Python scripting for cybersecurity automation  
-- Vulnerability assessment & reporting  
-- Linux security & privilege escalation  
-- Network analysis with Wireshark & Scapy  
+## 🧭 What I’m Learning / Working On
+- Ethical hacking & penetration testing
+- SOC operations (SIEM, log analysis, alerting)
+- Python scripting for cybersecurity automation
+- Vulnerability assessment & reporting
+- Linux security & privilege escalation
+- Network analysis with Wireshark & Scapy
 
 ---
 
-## 🛡️ Skills & Technologies
-**Networking:** TCP/IP, DNS, DHCP, Routing, Switching  
+## 🛠️ Skills & Technologies
+**Networking:** TCP/IP, DNS, DHCP, routing, switching  
 **Operating Systems:** Linux (Kali, Ubuntu), Windows  
 **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit  
 **Programming:** Python, Bash, HTML/CSS  
 **Platforms:** TryHackMe, HackTheBox  
-**Other:** Documentation, report writing, research analysis   
+**Other:** Documentation, report writing, research analysis
 
 ---
 
@@ -33,44 +32,44 @@ I enjoy learning through hands-on labs, building security tools, and analyzing r
 
 ### 🔍 1. 5G Cybersecurity Threats & Mitigation (Research)
 - Researched DDoS, MitM, IoT vulnerabilities, and edge risks  
-- Explored AI-based IDS, Zero-Trust, MFA, secure IoT protocols  
-- Analyzed Wireshark data to detect MitM patterns  
-- Studied quantum threats, blockchain security, SDN/NFV  
+- Evaluated AI-based IDS, zero-trust approaches, MFA, and secure IoT protocols  
+- Analyzed Wireshark captures to detect MitM patterns  
+- Studied quantum threats, blockchain security, and SDN/NFV implications
 
 ### 📡 2. Portable WiFi Repeater (Engineering Project)
-- Designed and built a working portable WiFi repeater  
-- Completed hardware assembly + software configuration  
+- Designed and built a portable WiFi repeater (hardware + software)  
 - Optimized signal strength, power usage, and stability  
-- Contributed documentation and final presentation  
+- Created documentation and final presentation
 
 ### 🖥️ 3. Online Advertising Agency Web App
-- Developed a web-based prototype for ad submissions  
-- Designed user interface + category management  
-- Included secure payment flow and user surveys  
+- Built a web-based prototype for ad submissions and category management  
+- Designed the user interface and a secure payment flow  
+- Integrated user surveys and basic admin functionality
 
-### 🧪 4. Cybersecurity Labs & Write-ups  
-- Documented hands-on work from TryHackMe & HackTheBox  
-- Practiced enumeration, privilege escalation, and web attacks  
-- Continuing to grow this repo as I learn more  
+### 🧪 4. Cybersecurity Labs & Write-ups
+- Documented hands-on work from TryHackMe and HackTheBox  
+- Practiced enumeration, privilege escalation, and web attack techniques  
+- Continuously expanding this repo with new labs and write-ups
+
 ---
 
 ## 📚 Certifications & Learning
-- TryHackMe (Ongoing)  
-- HackTheBox (Learning Path)
-- Cisco — Ethical Hacker (Reading)   
-- University Cybersecurity Modules
-- Cisco — Introduction to Cybersecurity   
-- Mastercard Cybersecurity Virtual Experience  
-- AIG Shields Up Cybersecurity Experience  
-- Deloitte Cyber Job Simulation (2025) 
+- TryHackMe (ongoing)
+- HackTheBox (learning path)
+- Cisco — Introduction to Cybersecurity
+- Cisco — Ethical Hacking (in progress)
+- Mastercard Cybersecurity Virtual Experience
+- AIG Shields Up Cybersecurity Experience
+- Deloitte Cyber Job Simulation (2025)
+- University cybersecurity coursework
 
 ---
 
 ## 📫 How to Reach Me
-- **Email:** ramlamujeeb93@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/framla/ 
+- **Email:** ramlamujeeb93@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/framla/  
 - **TryHackMe / HTB:** https://tryhackme.com/p/ramlamujeeb93?tab=completed-rooms
 
 ---
 
-### 🚀 This profile will keep growing as I build more projects and develop my skills. Stay tuned!
+This profile will continue to grow as I build more projects and develop my skills. Stay tuned!
